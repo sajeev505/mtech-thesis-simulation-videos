@@ -10,8 +10,8 @@ These cases simulate the injection of air into a bed consisting of a single soli
 
 | | | |
 | :---: | :---: | :---: |
-| **Base Case**<br>($30$ m/s, $d=0.00226$ m, $\rho=2600$ kg/m$^3$)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **Low Velocity**<br>($20$ m/s pulse)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **High Velocity**<br>($40$ m/s pulse)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
-| **Double Diameter**<br>($d=0.00452$ m)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **Double Density**<br>($\rho=5200$ kg/m$^3$)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | |
+| **Base Case**<br>($30$ m/s, $d=0.00226$ m, $\rho=2600$ kg/m$^3$)<br><video width="100%" src="https://github.com/user-attachments/assets/18f31403-0d7e-40a9-8303-1092d5736eee" controls></video> | **Low Velocity**<br>($20$ m/s pulse)<br><video width="100%" src="https://github.com/user-attachments/assets/b450c52d-70fc-4f2a-aca2-5b80175b36b1" controls></video> | **High Velocity**<br>($40$ m/s pulse)<br><video width="100%" src="https://github.com/user-attachments/assets/2f434bc9-36c0-4c85-9a25-ff51f63ad517" controls></video> |
+| **Double Diameter**<br>($d=0.00452$ m)<br><video width="100%" src="https://github.com/user-attachments/assets/a2b06138-919a-4979-b117-c3fcbe7f23a2" controls></video> | **Double Density**<br>($\rho=5200$ kg/m$^3$)<br><video width="100%" src="https://github.com/user-attachments/assets/39128a8d-2d4c-491d-95be-289f7321f7d6" controls></video> | |
 
 </details>
 
@@ -23,7 +23,7 @@ Verification cases running the base case configuration on coarser and finer mesh
 
 | | | |
 | :---: | :---: | :---: |
-| **Coarse Grid**<br>($20 \times 58 \times 2$)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **Production Grid**<br>($40 \times 117 \times 4$)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **Refined Grid**<br>($80 \times 234 \times 8$)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
+| **Coarse Grid**<br>($20 \times 58 \times 2$)<br><video width="100%" src="https://github.com/user-attachments/assets/be387a75-c8aa-4092-8fad-f5fd89c2963d" controls></video> | **Production Grid**<br>($40 \times 117 \times 4$)<br><video width="100%" src="https://github.com/user-attachments/assets/18f31403-0d7e-40a9-8303-1092d5736eee" controls></video> | **Refined Grid**<br>($80 \times 234 \times 8$)<br><video width="100%" src="https://github.com/user-attachments/assets/1d3226fa-3eae-4737-8578-3ec73b9f5a8b" controls></video> |
 
 </details>
 
@@ -35,9 +35,8 @@ Both solid phases share a common particle diameter ($d=0.00226$ m), but differ i
 
 | | | |
 | :---: | :---: | :---: |
-| **0 : 100** (Pure Heavier)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **10 : 90**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **30 : 70**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
-| **40 : 60**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **50 : 50**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **60 : 40**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
-| **70 : 30**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **90 : 10**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **100 : 0** (Pure Lighter)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
+| **0 : 100** (Pure Heavier)<br><video width="100%" src="https://github.com/user-attachments/assets/5ba526a9-c427-4bf7-9e80-33ae48d544ae" controls></video> | **30 : 70**<br><video width="100%" src="https://github.com/user-attachments/assets/9bb0eb69-9d6a-4920-954c-087c5750ffa0" controls></video> | **50 : 50**<br><video width="100%" src="https://github.com/user-attachments/assets/c92b5f95-d639-4b8c-92e3-d630f2774364" controls></video> |
+| **70 : 30**<br><video width="100%" src="https://github.com/user-attachments/assets/a6a40e3c-32c5-4359-a209-0623e69c55de" controls></video> | **100 : 0** (Pure Lighter)<br><video width="100%" src="https://github.com/user-attachments/assets/4d9d6928-31dc-48b1-9344-ca3f06373419" controls></video> | |
 
 </details>
 
@@ -49,38 +48,7 @@ Both solid phases share a common density ($\rho=2600$ kg/m$^3$), but differ in d
 
 | | | |
 | :---: | :---: | :---: |
-| **0 : 100** (Pure Coarser)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **10 : 90**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **30 : 70**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
-| **40 : 60**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **50 : 50**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **60 : 40**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
-| **70 : 30**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **90 : 10**<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> | **100 : 0** (Pure Finer)<br><video width="100%" src="PLACEHOLDER_LINK" controls></video> |
+| **0 : 100** (Pure Coarser)<br><video width="100%" src="https://github.com/user-attachments/assets/88b53917-a106-4ed6-a1b1-06a9d672b0a2" controls></video> | **30 : 70**<br><video width="100%" src="https://github.com/user-attachments/assets/3144f277-0acd-4933-ae1d-5a7590cf22c1" controls></video> | **50 : 50**<br><video width="100%" src="https://github.com/user-attachments/assets/280a613e-41f6-4de4-9a3e-c77ced6fb231" controls></video> |
+| **70 : 30**<br><video width="100%" src="https://github.com/user-attachments/assets/db09a1b6-2d0b-4cbc-9b65-fd53a72c7b67" controls></video> | **100 : 0** (Pure Finer)<br><video width="100%" src="https://github.com/user-attachments/assets/0ae1ec00-1473-424b-abca-5d776d24ceee" controls></video> | |
 
 </details>
-
-
-
-
-
-
-https://github.com/user-attachments/assets/b450c52d-70fc-4f2a-aca2-5b80175b36b1 - v20
-https://github.com/user-attachments/assets/18f31403-0d7e-40a9-8303-1092d5736eee - v30
-https://github.com/user-attachments/assets/2f434bc9-36c0-4c85-9a25-ff51f63ad517 - v40
-https://github.com/user-attachments/assets/a2b06138-919a-4979-b117-c3fcbe7f23a2 - v30_2d
-https://github.com/user-attachments/assets/39128a8d-2d4c-491d-95be-289f7321f7d6 - v30_2rho
-
-
-https://github.com/user-attachments/assets/be387a75-c8aa-4092-8fad-f5fd89c2963d - g_c
-https://github.com/user-attachments/assets/1d3226fa-3eae-4737-8578-3ec73b9f5a8b - g_r
-
-
-https://github.com/user-attachments/assets/88b53917-a106-4ed6-a1b1-06a9d672b0a2 - d_0_100
-https://github.com/user-attachments/assets/3144f277-0acd-4933-ae1d-5a7590cf22c1 - d_30_70
-https://github.com/user-attachments/assets/280a613e-41f6-4de4-9a3e-c77ced6fb231 - d_50_50
-https://github.com/user-attachments/assets/0ae1ec00-1473-424b-abca-5d776d24ceee - d_100_0
-https://github.com/user-attachments/assets/db09a1b6-2d0b-4cbc-9b65-fd53a72c7b67 - d_70_30
-
-
-https://github.com/user-attachments/assets/5ba526a9-c427-4bf7-9e80-33ae48d544ae - rho_0_100
-https://github.com/user-attachments/assets/9bb0eb69-9d6a-4920-954c-087c5750ffa0 - rho_30_70
-https://github.com/user-attachments/assets/c92b5f95-d639-4b8c-92e3-d630f2774364 - rho_50_50
-https://github.com/user-attachments/assets/a6a40e3c-32c5-4359-a209-0623e69c55de - rho_70_30
-https://github.com/user-attachments/assets/4d9d6928-31dc-48b1-9344-ca3f06373419 - rho_100_0
-
