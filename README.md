@@ -31,7 +31,7 @@ Verification cases running the base case configuration on coarser and finer mesh
 <summary><b>3. Bi-disperse Density-Ratio Family</b></summary>
 <br>
 
-Both solid phases share a common particle diameter ($d=0.00226$ m), but differ in density: the lighter phase has $\rho_1 = 2600$ kg/m$^3$ and the heavier phase has $\rho_2 = 5200$ kg/m$^3$. Split ratio denotes **Lighter : Heavier**.
+Both solid phases share a common particle diameter ($d=0.00226$ m), but differ in density: the lighter phase has $\rho_1 = 2600$ kg/kg/m<sup>3</sup>and the heavier phase has $\rho_2 = 5200$ kg/m$^3$. Split ratio denotes **Lighter : Heavier**.
 
 | | | |
 | :---: | :---: | :---: |
