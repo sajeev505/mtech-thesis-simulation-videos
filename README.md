@@ -27,8 +27,8 @@ These cases simulate the injection of air into a bed consisting of a single soli
 
 | | | |
 | :---: | :---: | :---: |
-| **Base Case**<br>($30$ m/s, $d=0.00226$ m, $\rho=2600$ kg/m$^3$)<br><video width="100%" src="https://github.com/user-attachments/assets/18f31403-0d7e-40a9-8303-1092d5736eee" controls></video> | **Low Velocity**<br>($20$ m/s pulse)<br><video width="100%" src="https://github.com/user-attachments/assets/b450c52d-70fc-4f2a-aca2-5b80175b36b1" controls></video> | **High Velocity**<br>($40$ m/s pulse)<br><video width="100%" src="https://github.com/user-attachments/assets/2f434bc9-36c0-4c85-9a25-ff51f63ad517" controls></video> |
-| **Double Diameter**<br>($d=0.00452$ m)<br><video width="100%" src="https://github.com/user-attachments/assets/a2b06138-919a-4979-b117-c3fcbe7f23a2" controls></video> | **Double Density**<br>($\rho=5200$ kg/m$^3$)<br><video width="100%" src="https://github.com/user-attachments/assets/39128a8d-2d4c-491d-95be-289f7321f7d6" controls></video> | |
+| **Base Case**<br>($30$ m/s, $d=0.00226$ m, $\rho=2600$ kg/m³)<br><video width="100%" src="https://github.com/user-attachments/assets/18f31403-0d7e-40a9-8303-1092d5736eee" controls></video> | **Low Velocity**<br>($20$ m/s pulse)<br><video width="100%" src="https://github.com/user-attachments/assets/b450c52d-70fc-4f2a-aca2-5b80175b36b1" controls></video> | **High Velocity**<br>($40$ m/s pulse)<br><video width="100%" src="https://github.com/user-attachments/assets/2f434bc9-36c0-4c85-9a25-ff51f63ad517" controls></video> |
+| **Double Diameter**<br>($d=0.00452$ m)<br><video width="100%" src="https://github.com/user-attachments/assets/a2b06138-919a-4979-b117-c3fcbe7f23a2" controls></video> | **Double Density**<br>($\rho=5200$ kg/m³)<br><video width="100%" src="https://github.com/user-attachments/assets/39128a8d-2d4c-491d-95be-289f7321f7d6" controls></video> | |
 
 </details>
 
@@ -48,7 +48,7 @@ Verification cases running the base case configuration on coarser and finer mesh
 <summary><b>3. Bi-disperse Density-Ratio Family</b></summary>
 <br>
 
-Both solid phases share a common particle diameter ($d=0.00226$ m), but differ in density: the lighter phase has $\rho_1 = 2600$ kg/m$^3$ and the heavier phase has $\rho_2 = 5200$ kg/m$^3$. Split ratio denotes **Lighter : Heavier**.
+Both solid phases share a common particle diameter ($d=0.00226$ m), but differ in density: the lighter phase has $\rho_1 = 2600$ kg/m³ and the heavier phase has $\rho_2 = 5200$ kg/m³. Split ratio denotes **Lighter : Heavier**.
 
 | | | |
 | :---: | :---: | :---: |
@@ -61,7 +61,7 @@ Both solid phases share a common particle diameter ($d=0.00226$ m), but differ i
 <summary><b>4. Bi-disperse Diameter-Ratio Family</b></summary>
 <br>
 
-Both solid phases share a common density ($\rho=2600$ kg/m$^3$), but differ in diameter: the finer phase has $d_1 = 0.00226$ m and the coarser phase has $d_2 = 0.00452$ m. Split ratio denotes **Finer : Coarser**.
+Both solid phases share a common density ($\rho=2600$ kg/m³), but differ in diameter: the finer phase has $d_1 = 0.00226$ m and the coarser phase has $d_2 = 0.00452$ m. Split ratio denotes **Finer : Coarser**.
 
 | | | |
 | :---: | :---: | :---: |
