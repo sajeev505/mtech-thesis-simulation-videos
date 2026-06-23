@@ -3,6 +3,23 @@
 This repository contains the CFD simulation videos (Eulerian-Eulerian Multifluid KTGF) of pulsed air injection in a bi-disperse gas-solid bed.
 
 <details open>
+<summary><b>0. Combined Summary Videos (16:9)</b></summary>
+<br>
+
+These combined videos show side-by-side comparisons of the different cases, formatted for 16:9 presentation slides.
+
+**Mono-disperse Summary**<br>
+<video width="100%" src="LINK_PLACEHOLDER_SINGLE_PHASE" controls></video>
+
+**Bi-disperse Density-Ratio Family**<br>
+<video width="100%" src="LINK_PLACEHOLDER_DENSITY_FAMILY" controls></video>
+
+**Bi-disperse Diameter-Ratio Family**<br>
+<video width="100%" src="LINK_PLACEHOLDER_DIAMETER_FAMILY" controls></video>
+
+</details>
+
+<details>
 <summary><b>1. Single-Phase Baselines (Mono-disperse)</b></summary>
 <br>
 
