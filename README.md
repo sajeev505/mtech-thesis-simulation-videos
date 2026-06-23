@@ -9,13 +9,13 @@ This repository contains the CFD simulation videos (Eulerian-Eulerian Multifluid
 These combined videos show side-by-side comparisons of the different cases, formatted for 16:9 presentation slides.
 
 **Mono-disperse Summary**<br>
-<video width="100%" src="LINK_PLACEHOLDER_SINGLE_PHASE" controls></video>
+<video width="100%" src="https://github.com/user-attachments/assets/ea17034c-6673-4090-9072-e91f65f523b6" controls></video>
 
 **Bi-disperse Density-Ratio Family**<br>
-<video width="100%" src="LINK_PLACEHOLDER_DENSITY_FAMILY" controls></video>
+<video width="100%" src="https://github.com/user-attachments/assets/b3aebc5c-9837-4d80-8f2c-be8c23ab0c46" controls></video>
 
 **Bi-disperse Diameter-Ratio Family**<br>
-<video width="100%" src="LINK_PLACEHOLDER_DIAMETER_FAMILY" controls></video>
+<video width="100%" src="https://github.com/user-attachments/assets/0b590f7b-5507-4e98-a7f7-9cd020f9126d" controls></video>
 
 </details>
 
